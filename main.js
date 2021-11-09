@@ -16,5 +16,4 @@ app.on('ready',() => {
    });
 
    window.loadFile('main.html');
-
 });
